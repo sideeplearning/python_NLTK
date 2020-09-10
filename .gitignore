@@ -4,3 +4,8 @@
 *.png
 
 *.6_14_Unnamed
+*.vec
+*.iml
+*.xml
+*.npy
+*.bin
